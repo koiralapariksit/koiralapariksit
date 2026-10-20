@@ -12,11 +12,7 @@
 
 I build software, experiment with AI, and learn by making things.
 
-🔭 &nbsp;I'm currently working on **Too many projects at once 🚀**  
-🌱 &nbsp;I'm currently learning **Computer vision, LLMs &amp; AI engineering**  
-🤔 &nbsp;I'm looking for help with **Building scalable AI products**  
-😄 &nbsp;Pronouns: **He/Him**  
-⚡ &nbsp;Fun fact: **I usually start with “what if we built this?**
+ 
 
 ### 🛠️ Tech Stack
 
